@@ -1,9 +1,5 @@
 🚀 Week 1 - Day 1 SQL Basics
 
-"SQL" (https://img.shields.io/badge/SQL-Basics-blue)
-"Databricks" (https://img.shields.io/badge/Databricks-Learning-red)
-"DB-Fiddle" (https://img.shields.io/badge/Practice-DBFiddle-green)
-
 ---
 
 📌 What I Learned Today
