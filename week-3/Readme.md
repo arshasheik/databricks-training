@@ -1,107 +1,152 @@
-# 🏆 SQL Window Functions Practice
+# SQL Practice Repository
 
-This repository contains practice queries on SQL Window Functions using sample employee and order datasets.  
-The queries are focused on ranking, numbering, and partitioning data using MySQL window functions.
-
----
-
-# 📂 Topics Covered
-
-## 🔢 ROW_NUMBER()
-Assigns a unique sequential number to each row.
-
-### 📌 Practice Questions
-- Row numbering based on salary
-- Department-wise row numbering
-- Row numbering using join date
-- City-wise order numbering
-- Alphabetical row numbering
-
-### ✅ Concepts Used
+## 📅 Day-1
+### Topics Covered
 - ROW_NUMBER()
-- PARTITION BY
-- ORDER BY
-
----
-
-## 🏅 RANK()
-Assigns ranks to rows with gaps in ranking when duplicate values exist.
-
-### 📌 Practice Questions
-- Salary ranking
-- Department-wise salary ranking
-- Order amount ranking
-- Name-based ranking
-- Date-wise ranking
-
-### ✅ Concepts Used
 - RANK()
-- PARTITION BY
-- ORDER BY
-
----
-
-## 🥇 DENSE_RANK()
-Assigns ranks without gaps between ranking values.
-
-### 📌 Practice Questions
-- Dense ranking based on salary
-- Department-wise dense ranking
-- Order amount dense ranking
-- Join date ranking
-- City-wise dense ranking
-
-### ✅ Concepts Used
 - DENSE_RANK()
 - PARTITION BY
 - ORDER BY
 
----
-
-# 🗂️ Tables Used
-
-## 👨‍💼 Employees Table
-Contains employee details such as:
-- Employee ID
-- Employee Name
-- Department
-- Salary
-- Joining Date
+### Tables Used
+- Employees Table
+- Orders Table
 
 ---
 
-## 🛒 Orders Table
-Contains order details such as:
-- Order ID
-- Customer Name
-- City
-- Order Amount
-- Order Date
+## 📅 Day-2
+### Topics Covered
+- PySpark CSV Reading
+- Databricks Notebook
+- display()
+- Data Preview using limit()
+- Reading Multiple CSV Files
+
+### Files Used
+- empData.csv
+- Big Sales.csv
+
+---
+# 🚀 PySpark DataFrame Operations Assignment
+
+## 📌 Overview
+This assignment demonstrates basic DataFrame operations using PySpark in Databricks Community Edition.
 
 ---
 
-# 💡 Skills Practiced
-✅ Window Functions  
-✅ Ranking Techniques  
-✅ Data Partitioning  
-✅ Sorting and Ordering  
-✅ Real-Time SQL Scenarios  
+## 🛠️ Technologies Used
+- Python 🐍
+- PySpark ⚡
+- Databricks ☁️
 
 ---
 
-# 🛠️ Database Used
+
+## 📅 Day-3
+## 📂 Topics Covered
+- ✅ DataFrame Creation
+- ✅ Select Operations
+- ✅ Alias
+- ✅ Filter / Where
+- ✅ withColumn
+- ✅ withColumnRenamed
+- ✅ Type Casting
+- ✅ Sort / OrderBy
+- ✅ Limit
+- ✅ String & Date Functions
+
+---
+
+## 🔥 Important Functions Used
+
+| Function | Purpose |
+|----------|----------|
+| `select()` | Select columns |
+| `filter()` | Filter rows |
+| `withColumn()` | Create new columns |
+| `cast()` | Change datatype |
+| `orderBy()` | Sort data |
+| `limit()` | Limit rows |
+
+---
+
+## 📖 Learning Outcomes
+- Learned PySpark DataFrame operations
+- Understood filtering and sorting
+- Created derived columns
+- Worked with datatypes and functions
+- Practiced PySpark queries in Databricks
+
+---
+
+## 🎯 Conclusion
+This assignment helped in understanding core PySpark concepts and DataFrame transformations using Databricks.
+
+
+
+## 📅 Day-4
+
+# 🚀 SQL to PySpark – Phase 3 ETL Pipeline
+
+## 📌 Overview
+This project demonstrates basic ETL operations using PySpark in Databricks Free Edition.
+
+## 🔄 ETL Process
+- 📥 Extract → Read CSV files
+- 🛠️ Transform → Clean and process data
+- 📤 Load → Display/save final output
+
+## 🧰 Technologies Used
+- PySpark
+- Databricks
+- Spark SQL
+- CSV Files
+
+## ✅ Tasks Performed
+- Read CSV files
+- Checked schema using `printSchema()`
+- Cleaned null values
+- Removed duplicates
+- Filtered invalid records
+- Performed aggregations
+- Converted SQL queries to PySpark
+
+## 📚 Key Learnings
+- Data cleaning techniques
+- Schema understanding
+- ETL pipeline building
+- SQL to PySpark mapping
+- Real-world data processing
+
+## 🔥 Workflow
+
+```text
+Read Data
+   ↓
+Clean Data
+   ↓
+Filter Records
+   ↓
+Aggregate Data
+   ↓
+Generate Output
+```
+
+## 📂 Files Used
+- `empData.csv`
+- `Big Sales.csv`
+
+## 🎯 Outcome
+Learned how to process raw data step-by-step using PySpark and build simple ETL pipelines in Databricks.
+
+## 🛠️ Technologies Used
 - MySQL
+- PySpark
+- Databricks
+- GitHub
 
 ---
 
-# 🎯 Purpose
-This practice set is useful for:
-- SQL Interview Preparation
-- Learning Window Functions
-- Understanding Ranking Logic
-- Improving Query Writing Skills
 
----
-
-# 👩‍💻 Author
-**Sk.Arsha sumaiyya**
+## 👩‍💻 Author
+**Sk.ArshaSumaiyya**
