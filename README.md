@@ -1,18 +1,18 @@
-# 🚀 Data Engineering Training Repository
+# Data Engineering Training Repository
 
 SQL · PySpark · Databricks · ETL · Data Quality  
 Python · Apache Spark · Databricks SQL
 
 ---
 
-# 📌 About Repository
+#  About Repository
 
 This repository contains my hands-on Data Engineering learning journey organized week-wise and day-wise.  
 It includes SQL fundamentals, joins, analytical queries, SQL functions, window functions, and real-time practice exercises.
 
 ---
 
-# 🗂️ Quick Structure
+# Quick Structure
 
 - Week-1/
 - Week-2/
@@ -21,7 +21,7 @@ It includes SQL fundamentals, joins, analytical queries, SQL functions, window f
 
 ---
 
-# 📚 Quick Glimpse
+# Quick Glimpse
 
 ## Week-1 (SQL Foundations)
 
@@ -50,7 +50,7 @@ It includes SQL fundamentals, joins, analytical queries, SQL functions, window f
 
 ---
 
-# 🧠 Skills Snapshot
+#  Skills Snapshot
 
 - SQL query writing
 - joins and aggregations
@@ -64,7 +64,7 @@ It includes SQL fundamentals, joins, analytical queries, SQL functions, window f
 
 ---
 
-# ⚙️ Where to Start
+# Where to Start
 
 - Start with Week-1 for SQL foundations
 - Move to Week-2 for SQL functions practice
@@ -72,6 +72,6 @@ It includes SQL fundamentals, joins, analytical queries, SQL functions, window f
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 ### Sk.Arsha Sumaiyya
