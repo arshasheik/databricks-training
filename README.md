@@ -1,29 +1,37 @@
-# Data Engineering Training Repository
+#  Data Engineering Training Repository
 
-SQL · PySpark · Databricks · ETL · Data Quality  
-Python · Apache Spark · Databricks SQL
-
----
-
-#  About Repository
-
-This repository contains my hands-on Data Engineering learning journey organized week-wise and day-wise.  
-It includes SQL fundamentals, joins, analytical queries, SQL functions, window functions, and real-time practice exercises.
+### SQL · PySpark · Databricks · ETL · Data Quality  
+### Python · Apache Spark · Spark SQL · Spark Playground
 
 ---
 
-# Quick Structure
+##  About Repository
 
-- Week-1/
-- Week-2/
-- Week-3/
-- README.md
+This repository contains my hands-on **Data Engineering** learning journey organized **week-wise** and **day-wise**.
+
+It includes SQL fundamentals, joins, analytical queries, SQL functions, window functions, PySpark DataFrame operations, ETL pipelines, projects, and real-world practice exercises.
 
 ---
 
-# Quick Glimpse
+##  Quick Structure
 
-## Week-1 (SQL Foundations)
+```text
+Data-Engineering-Training/
+│
+├── Week-1/
+├── Week-2/
+├── Week-3/
+├── Projects/
+├── PySpark/
+│
+└── README.md
+```
+
+---
+
+##  Quick Glimpse
+
+###  Week-1 (SQL Foundations)
 
 - Day-1: SQL Basics & Database Concepts
 - Day-2: SQL Clauses & Operators
@@ -33,45 +41,74 @@ It includes SQL fundamentals, joins, analytical queries, SQL functions, window f
 
 ---
 
-## Week-2 (SQL Functions Practice)
+###  Week-2 (SQL Functions Practice)
 
 - Day-1: Date Manipulation Functions
 - Day-2: NULL Functions
 - Day-3: Number Manipulation Functions
-- Day-4: REGEX
+- Day-4: REGEX Functions
 - Day-5: NULL Value Handling
 - Day-6: String Functions
 
 ---
 
-## Week-3 (Window Functions Practice)
+###  Week-3 (PySpark & Data Engineering)
 
 - Day-1: Window Functions
+- Day-2: PySpark Basics
+- Day-3: PySpark DataFrame Operations
+- Day-4: ETL Pipelines
+- Day-5: Data Transformations
 
 ---
 
-#  Skills Snapshot
+###  Projects
 
-- SQL query writing
-- joins and aggregations
-- analytical SQL
-- window functions
-- ranking techniques
-- NULL handling
-- REGEX filtering
-- string manipulations
-- real-time SQL problem solving
+- Project-1: Employee Salary Analysis
+- Project-2: HR Dashboard
+- Project-3: Engineering Scenarios
 
 ---
 
-# Where to Start
+###  PySpark
 
-- Start with Week-1 for SQL foundations
-- Move to Week-2 for SQL functions practice
-- Explore Week-3 for window functions and analytical SQL queries
+-  Phase 2 (Bridge Pack)
+-  Phase 3 (ETL Pipeline)
+-  Phase 4 (Mini Project)
+-  Phase 4a(Bucketing & segmentation)
 
 ---
 
-# Author
+##  Skills Snapshot
 
-### Sk.Arsha Sumaiyya
+- SQL Query Writing
+- Joins and Aggregations
+- Analytical SQL
+- Window Functions
+- Ranking Techniques
+- SQL Functions
+- NULL Handling
+- REGEX Filtering
+- String Manipulations
+- PySpark DataFrame Operations
+- SQL to PySpark Conversion
+- ETL Pipeline Development
+- Data Cleaning & Transformation
+- Business Reporting
+- Spark Playground Practice
+
+---
+
+##  Where to Start
+
+- Start with **Week-1** for SQL Foundations.
+- Move to **Week-2** for SQL Functions Practice.
+- Explore **Week-3** for PySpark and Data Engineering concepts.
+- Check the **Projects** folder for SQL-based mini projects.
+- Explore the **PySpark** folder for SQL-to-PySpark assignments and ETL practice.
+
+---
+
+## 👩‍💻 Author
+
+**sheikh.Arsha Sumaiyya**
